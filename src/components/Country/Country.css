@@ -1,0 +1,10 @@
+.country{
+    background-color: darkgoldenrod;
+    border: 2px solid purple;
+    border-radius: 20px;
+
+}
+
+.country img{
+    width: 150px;
+}
