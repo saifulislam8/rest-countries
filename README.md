@@ -1,6 +1,6 @@
 # Showing all over countries in the world.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was rest-countries with [https://lucky-pavlova-fde4d0.netlify.app/.
 
 ## Available Scripts
 
